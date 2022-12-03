@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cprasenjit32
-- 👀 I’m interested in learning more about Data Science and Machine learning technologies.
-- 🌱 I’m currently learning AI and ML from Applied AI
+- 👀 I’m interested to work on different AI/ML projects to enhance my skills and contribute to the community.
+- 🌱 I’m currently learning AI and ML.
 - Learning Python from Codebasics.
-- Looking forward to start internship to gain more experience in the AI/ML field.
+
 
 
 <!---
